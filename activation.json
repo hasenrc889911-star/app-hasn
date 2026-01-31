@@ -1,8 +1,6 @@
 {
-  "users": [
-    {
-      "code": "HASN-2026",
-      "expires": 1769817600
-    }
+  "active_keys": [
+    "HASSAN-2026",
+    "VIP-7788"
   ]
 }
